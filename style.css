@@ -56,7 +56,9 @@ body{
     padding-right: 15px;
     border-radius:20px;
 }
-
+.content button a{
+    color:white;
+}
 .b div{
     display: flex;
     margin-left:20%;
@@ -144,14 +146,15 @@ body{
 }
 .signup p{
     text-align:center;
+    margin-top: 0%;
 }
 
-.fourth .signup strong{
+.fourth .signup h3{
     font-weight: 600;
     margin-top: 2%;
     margin-left: 90px;
     text-align:left;
-   
+    margin-bottom: 0%;
 }
 footer{
     font-size: 20px;
